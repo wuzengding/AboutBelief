@@ -1,2 +1,1 @@
-# Learning-summarize_and_record_AboutBelief
-AboutBelief​ 
+# Learning-summarize_and_record_on_Belief
